@@ -24,7 +24,7 @@ The project consists of the following files:
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/liramkreiner/Backgammon.git
+    git clone https://github.com/yoavcohen08/Backgammon-Game.git
     cd Backgammon
     ```
 
