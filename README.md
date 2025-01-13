@@ -73,12 +73,6 @@ Check out the video demonstration of the game at the following link:
 
 ---
 
-## 🖼️ Screenshot
-
-![Game Screenshot](Screenshot%202025-01-13%20at%2023.54.30.png)
-
----
-
 ## 📬 Authors
 
 - **Yoav Cohen**
