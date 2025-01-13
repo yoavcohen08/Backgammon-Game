@@ -66,6 +66,19 @@ The project consists of the following files:
 
 ---
 
+## 📹 Video Demo
+
+Check out the video demonstration of the game at the following link:  
+[Backgammon Game Video](https://drive.google.com/drive/folders/13-7FE3BK7akZQIDt-5aVi1x4CfQ5Ps0i?usp=drive_link)
+
+---
+
+## 🖼️ Screenshot
+
+![Game Screenshot](Screenshot%202025-01-13%20at%2023.54.30.png)
+
+---
+
 ## 📬 Authors
 
 - **Yoav Cohen**
