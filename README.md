@@ -3,6 +3,12 @@
 This project is an implementation of the Backgammon game using the Jack programming language. The game is designed to run on the Nand2Tetris platform.
 
 ---
+## 📹 Video Demo
+
+Check out the video demonstration of the game at the following link:  
+[Backgammon Game Video](https://drive.google.com/drive/folders/13-7FE3BK7akZQIDt-5aVi1x4CfQ5Ps0i?usp=drive_link)
+
+---
 
 ## 📂 Project Structure
 
@@ -66,12 +72,6 @@ The project consists of the following files:
 
 ---
 
-## 📹 Video Demo
-
-Check out the video demonstration of the game at the following link:  
-[Backgammon Game Video](https://drive.google.com/drive/folders/13-7FE3BK7akZQIDt-5aVi1x4CfQ5Ps0i?usp=drive_link)
-
----
 
 ## 📬 Authors
 
